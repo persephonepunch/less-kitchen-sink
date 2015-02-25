@@ -1,12 +1,6 @@
-@import url(//fonts.googleapis.com/css?family=Raleway:100,300,700,900,500);
+@import url(//fonts.googleapis.com/css?family=Roboto:100,300,700,900,500);
 /*!
- * White Plum v0.3.0
- *
- * Copyright 2013 Divshot, Inc.
- * Licensed under the Apache License v2.0
- * http://www.apache.org/licenses/LICENSE-2.0
- *
- * This theme was built using the Themestrap Bootstrap Theme Kit.
+
  * https://github.com/divshot/themestrap
  */
 /*!
@@ -404,7 +398,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: Raleway, Helvetica, Arial, sans-serif;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
   font-weight: 300;
   line-height: 1.1;
 }
