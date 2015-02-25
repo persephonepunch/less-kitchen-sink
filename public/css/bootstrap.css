@@ -549,7 +549,7 @@ abbr.initialism {
 blockquote {
   padding: 10px 20px;
   margin: 0 0 20px;
-  border-left: 5px solid #cec5ef;
+  border-left: 5px solid #64b646;
 }
 blockquote p {
   font-size: 17.5px;
@@ -570,7 +570,7 @@ blockquote small:before {
 blockquote.pull-right {
   padding-right: 15px;
   padding-left: 0;
-  border-right: 5px solid #cec5ef;
+  border-right: 5px solid #64b646;
   border-left: 0;
 }
 blockquote.pull-right p,
